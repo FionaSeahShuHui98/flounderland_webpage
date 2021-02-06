@@ -1,0 +1,25 @@
+body, html 
+{
+  height: 100%;
+  margin: 0;
+}
+
+.bg 
+{
+  background-image: url("../Images/Gallery/Overseas/Ho-Chi-Minh/Surroundings.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:yellow;
+  font-size: large;
+  text-align: center;
+}
